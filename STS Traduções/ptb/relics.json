@@ -112,7 +112,7 @@
     "NAME": "Tornado Engarrafado",
     "FLAVOR": "Relíquia de teste.",
     "DESCRIPTIONS": [
-      "Após pegar, escolha uma carta de Poder. No início de cada combate, essa carta estará em sua mão.",
+      "Após pegar, escolha uma carta de #yPoder. No início de cada combate, essa carta estará em sua mão.",
       "Escolha uma carta para ",
       "No início de cada combate, adicione ",
       " à sua mão."
@@ -122,7 +122,7 @@
     "NAME": "Escamas de Bronze",
     "FLAVOR": "As escamas afiadas do Guardião. Arrumam-se para proteger o usuário. ",
     "DESCRIPTIONS": [
-      "Sempre que receber dano, cause #b",
+      "Sempre que receber dano de inimigos, cause #b",
       " de dano de volta."
     ]
   },
@@ -251,7 +251,7 @@
     "NAME": "Filtro de Sonhos",
     "FLAVOR": "As tribos do norte muitas vezes usavam filtros de sonhos à noite, acreditando que eles os levariam ao auto-aperfeiçoamento.",
     "DESCRIPTIONS": [
-      "Sempre que você descansar, você pode adicionar uma carta ao seu baralho."
+      "Sempre que você #ydescansar, você pode adicionar uma carta ao seu baralho."
     ]
   },
   "Du-Vu Doll": {
@@ -534,7 +534,7 @@
     ]
   },
   "Nloth's Gift": {
-    "NAME": "Presente de Nloth",
+    "NAME": "Presente de N'loth",
     "FLAVOR": "Um estranho presente de N'loth. Sempre que você tenta o abrir, outra caixa fechada do mesmo tamanho está dentro.",
     "DESCRIPTIONS": [
       "#bTriplica a chance de receber cartas rara como recompensas de monstros."
@@ -1087,337 +1087,337 @@
     ]
   },
   "DataDisk": {
-    "NAME": "Data Disk",
-    "FLAVOR": "This disk contains precious data on birds and snakes.",
+    "NAME": "Disco de arquivos",
+    "FLAVOR": "Este disco contém arquivos preciosos sobre passáro e cobras.",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b",
-      " #yFocus."
+      "No início de cada combate, ganhe #b",
+      " #yFoco."
     ]
   },
   "Nuclear Battery": {
-    "NAME": "Nuclear Battery",
+    "NAME": "Bateria Nuclear",
     "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yPlasma."
+      "No início de cada combate, #yEvoque #b1 #yPlasma."
     ]
   },
   "Cracked Core": {
-    "NAME": "Cracked Core",
-    "FLAVOR": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
+    "NAME": "Orbe Rachada",
+    "FLAVOR": "A misteriosa força vital que alimenta os Automatos dentro do Spire. Parece estar rachado.",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yLightning."
+      "No início de cada combate, #yEvoque #b1 #yRelâmpago."
     ]
   },
   "Turnip": {
-    "NAME": "Turnip",
-    "FLAVOR": "Best with Ginger.",
+    "NAME": "Nabo",
+    "FLAVOR": "Melhor com gengibre.",
     "DESCRIPTIONS": [
-      "You can no longer become #yFrail."
+      "Você nao ficará mais com #yFraqueza."
     ]
   },
   "Emotion Chip": {
-    "NAME": "Emotion Chip",
+    "NAME": "Chip Emotivo",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "At the start of each turn, if you took any damage last turn, trigger the passive ability of all your Orbs."
+      "No início de cada turno. Se você recebeu algum dano no último turno, ative a habilidade passiva de todas as suas Orbes."
     ]
   },
   "Inserter": {
-    "NAME": "Inserter",
-    "FLAVOR": "Further damage could be prevented by freezing one's core.",
+    "NAME": "Inserção",
+    "FLAVOR": "Mais danos poderiam ser evitados congelando uma orbe.",
     "DESCRIPTIONS": [
-      "Every #b2 turns, gain #b1 Orb slot."
+      "A cada #b2 turnos, ganhe #b1 slot de Orbe vazio."
     ]
   },
   "Cables": {
-    "NAME": "Gold-Plated Cables",
-    "FLAVOR": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid",
+    "NAME": "Cabos banhados a Ouro",
+    "FLAVOR": "\"Interessante! Até os autômatos são afetados pelo placebo.\" - Ranwid",
     "DESCRIPTIONS": [
       "Your rightmost Orb triggers its passive an additional time."
     ]
   },
   "Runic Capacitor": {
-    "NAME": "Runic Capacitor",
-    "FLAVOR": "More is better.",
+    "NAME": "Capacitor Rúnico",
+    "FLAVOR": "Mais é melhor.",
     "DESCRIPTIONS": [
-      "Start each combat with #b3 additional Orb slots."
+      "Começe cada batalha com #b3 Slots de orbes adicionais."
     ]
   },
   "Symbiotic Virus": {
-    "NAME": "Symbiotic Virus",
-    "FLAVOR": "A little bit bad of #rbad can do a lot of #ggood...",
+    "NAME": "Vírus Simbiótico",
+    "FLAVOR": "aquilo que não te #rmata vai te #gfotalecer...",
     "DESCRIPTIONS": [
-      "At the start of each combat, #yChannel #b1 #yDark."
+      "No início de cada combate, #yEvoque #b1 #yDark."
     ]
   },
   "Potion Belt": {
-    "NAME": "Potion Belt",
-    "FLAVOR": "I can hold more Potions using this belt!",
+    "NAME": "Cinto de Poção",
+    "FLAVOR": "Eu posso levar mais poções usando este cinto!",
     "DESCRIPTIONS": [
-      "Upon pick up, gain #b1 Potion slot."
+      "Ao pegar a reliquia, ganhe #b1 slots de Poções."
     ]
   },
   "Boot": {
-    "NAME": "The Boot",
-    "FLAVOR": "When wound up, the boot grows larger in size.",
+    "NAME": "A bota",
+    "FLAVOR": "Quando acaba, a bota fica maior em tamanho.",
     "DESCRIPTIONS": [
-      "Whenever you would deal #b",
-      " or less unblocked #yAttack damage, increase it to #b5."
+      "Sempre que você der #b",
+      " ou menos de #yDano, aumente para #b5."
     ]
   },
   "Mark of the Bloom": {
-    "NAME": "Mark of the Bloom",
-    "FLAVOR": "In the Beyond, thoughts and reality are one.",
+    "NAME": "A marca da Flor",
+    "FLAVOR": "No além, pensamentos e realidade são apenas um.",
     "DESCRIPTIONS": [
-      "You can no longer heal."
+      "Você não pode mais descansar."
     ]
   },
   "Busted Crown": {
-    "NAME": "Busted Crown",
-    "FLAVOR": "The Champ's crown... or a pale imitation?",
+    "NAME": "Coroa Quebrada",
+    "FLAVOR": "A verdadeira coroa do Campeão... ou uma imitação?",
     "DESCRIPTIONS": [
-      "On Card Reward screens, you have #b2 fewer #ycards to choose from.",
-      "Gain [R] at the start of each turn. ",
-      "Gain [G] at the start of each turn. ",
-      "Gain [B] at the start of each turn. "
+      "Nas telas de Recompensas de cartas, você terá menos #b2 #ycartas para escolher",
+      "Ganhe [R] no início de cada turno. ",
+      "Ganhe [G] no início de cada turno. ",
+      "Ganhe [B] no início de cada turno. "
     ]
   },
   "Empty Cage": {
-    "NAME": "Empty Cage",
-    "FLAVOR": "\"How unusual to cage that which you worship.\" - Ranwid",
+    "NAME": "Gaiola vazia",
+    "FLAVOR": "\"Que incomum você enjaular algo que adora.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Upon pick up, remove #b2 cards from your deck.",
-      "Choose 2 Cards to Remove."
+      "Ao pegar a reliquia, remova #b2 cartas do seu deck.",
+      "Escolha 2 Cartas para remover."
     ]
   },
   "Incense Burner": {
-    "NAME": "Incense Burner",
-    "FLAVOR": "An incense burner from long ago. Burning precious wood seems unimaginable.",
+    "NAME": "Queimador de Incenso",
+    "FLAVOR": "Um queimador de incenso de muito tempo atrás. A queima de madeira preciosa parece inimaginável.",
     "DESCRIPTIONS": [
-      "Every #b5 turns, gain #b1 #yIntangible."
+      "A cada #b5 turnos, ganhe #b1 #yIntangível."
     ]
   },
   "Fusion Hammer": {
-    "NAME": "Fusion Hammer",
-    "FLAVOR": "Once wielded, the owner can never let go.",
+    "NAME": "Fusão do martelo",
+    "FLAVOR": "Uma vez empunhado, o dono nunca pode soltar.",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Smith at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "No início do seu Turno. Você não poderá usar a Forja nos Locais de Descanso.",
+      "Ganhe [R] ",
+      "Ganhe [G] ",
+      "Ganhe [B] "
     ]
   },
   "Coffee Dripper": {
-    "NAME": "Coffee Dripper",
-    "FLAVOR": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect",
+    "NAME": "Xícara de café",
+    "FLAVOR": "\"Sim, outro copo, por favor. De volta ao trabalho. De volta ao trabalho!\" - O Arquiteto",
     "DESCRIPTIONS": [
-      "at the start of each turn. You can no longer Rest at Rest Sites.",
-      "Gain [R] ",
-      "Gain [G] ",
-      "Gain [B] "
+      "No início do seu Turno. Você não poderá descansar nos Locais de Descanso.",
+      "Ganhe [R] ",
+      "Ganhe [G] ",
+      "Ganhe [B] "
     ]
   },
   "SsserpentHead": {
-    "NAME": "Ssserpent Head",
-    "FLAVOR": "The most fulfilling of lives is that in which you can #ybuy #yanything!",
+    "NAME": "Cabeça da ssserpente",
+    "FLAVOR": "A parte mais gostosa da vida é quando você pode #ycomprar #yqualquer #ycoisa!",
     "DESCRIPTIONS": [
-      "Whenever you begin an Event, gain #b",
-      " #yGold."
+      "Sempre que entrar em algum evento, ganhe #b",
+      " #yOuro."
     ]
   },
   "NlothsMask": {
-    "NAME": "N'Loth's Mask",
-    "FLAVOR": "You feel hungry.",
+    "NAME": "Máscara de N'Loth",
+    "FLAVOR": "Você pode sentir fome.",
     "DESCRIPTIONS": [
-      "Whenever you play a Rare card, gain #b",
-      " #yBlock."
+      "Sempre que jogar uma carta rara, ganhe #b",
+      " #yProteção."
     ]
   },
   "FaceOfCleric": {
-    "NAME": "Face Of Cleric",
-    "FLAVOR": "Everyone loves Cleric.",
+    "NAME": "Face do Clérigo",
+    "FLAVOR": "Todos amam os Clérigos.",
     "DESCRIPTIONS": [
-      "Raise your Max HP by #b1 after each combat."
+      "Aumente seu PV maximo em #b1 depois de cada Batalha."
     ]
   },
   "CultistMask": {
-    "NAME": "Cultist Mask",
-    "FLAVOR": "Part of the Flock!",
+    "NAME": "Máscara do cultista",
+    "FLAVOR": "Parte do Rebanho!",
     "DESCRIPTIONS": [
-      "You feel more talkative.",
+      "Você se sente mais falador.",
       "@CAW!@ NL @CAAAW@"
     ]
   },
   "GremlinMask": {
-    "NAME": "Tiny Gremlin Mask",
-    "FLAVOR": "Time to run.",
+    "NAME": "Pequena mascara de Gremlin",
+    "FLAVOR": "Hora de correr.",
     "DESCRIPTIONS": [
-      "Start each combat with #b1 #yWeak."
+      "Começe cada Batalha com #b1 #yFraqueza."
     ]
   },
   "TheAbacus": {
-    "NAME": "The Abacus",
-    "FLAVOR": "One...Two...Three...Dead!",
+    "NAME": "O Ábaco",
+    "FLAVOR": "Um...Dois...Três...Morto!",
     "DESCRIPTIONS": [
-      "Gain #b6 #yBlock whenever you shuffle your draw pile."
+      "Ganhe #b6 de #yProteção sempre que você embaralhar sua pilha de compras."
     ]
   },
   "DollysMirror": {
-    "NAME": "Dolly's Mirror",
-    "FLAVOR": "\"I look funny in this.\"",
+    "NAME": "Espelho da zorra",
+    "FLAVOR": "\"Eu pareço engraçado nele.\"",
     "DESCRIPTIONS": [
-      "Upon pickup, obtain an additional copy of a card in your deck.",
-      "Choose 1 Card to Copy."
+      "Ao pegar a reliquia, duplique uma carta do seu deck.",
+      "Escolha 1 Carta para copiar."
     ]
   },
   "ClockworkSouvenir": {
-    "NAME": "Clockwork Souvenir",
-    "FLAVOR": "\"So many intricate gears.\"",
+    "NAME": "Lembrança de um Relógio",
+    "FLAVOR": "\"Tantas engrenagens complexas.\"",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain #b1 #yArtifact."
+      "No inicio de cada batalha, ganhe #b1 #yArtefato."
     ]
   },
   "MealTicket": {
-    "NAME": "Meal Ticket",
-    "FLAVOR": "\"Complimentary meatballs with every visit!\"",
+    "NAME": "Ticket refeição",
+    "FLAVOR": "\"Almôndegas de cortesia a cada visita!\"",
     "DESCRIPTIONS": [
-      "Whenever you enter a shop room, heal #b7 HP."
+      "Sempre que entrar na loja, cure #b7 PV."
     ]
   },
   "TwistedFunnel": {
-    "NAME": "Twisted Funnel",
-    "FLAVOR": "\"I wouldn't drink out of it.\"",
+    "NAME": "Funil Torcido",
+    "FLAVOR": "\"Eu não beberia isso.\"",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply #b4 #yPoison to ALL enemies."
+      "No Início de cada batalha, aplique #b4 #yVeneno em TODOS os inimigos."
     ]
   },
   "HandDrill": {
-    "NAME": "Hand Drill",
-    "FLAVOR": "\"Spirals are dangerous.\"",
+    "NAME": "Furadeira",
+    "FLAVOR": "\"Espirais são perigosas.\"",
     "DESCRIPTIONS": [
-      "Whenever you break an enemy's block, apply #b2 #yVulnerable."
+      "Sempre que quebrar a #yProteção inimiga, aplique #b2 de #yVulnerabilidade."
     ]
   },
   "HoveringKite": {
-    "NAME": "Hovering Kite",
-    "FLAVOR": "The Kite floats around you in battle, propelled by a mysterious force.",
+    "NAME": "Pipa pairando",
+    "FLAVOR": "O pipa flutua ao seu redor em batalha, impulsionado por uma força misteriosa.",
     "DESCRIPTIONS": [
-      "Discard #b1 card and gain [G] at the start of each turn."
+      "Descarte #b1 carta e ganhe [G] No início de cada turno."
     ]
   },
   "Sling": {
-    "NAME": "Sling of Courage",
-    "FLAVOR": "\"A handy tool for dealing with particularly tough opponents.\"",
+    "NAME": "Tipóia da coragem",
+    "FLAVOR": "\"Uma ferramenta útil para lidar com oponentes particularmente difíceis.\"",
     "DESCRIPTIONS": [
-      "Start each Elite combat with #b",
-      " #yStrength."
+      "Começe todos combates de Elite com #b",
+      " #yForça."
     ]
   },
   "FrozenCore": {
-    "NAME": "Frozen Core",
-    "FLAVOR": "The crack in your core has been filled with a pulsating cold energy.",
+    "NAME": "Orb Congelada",
+    "FLAVOR": "A rachadura de seu Orb foi preenchida com uma energia pulsante e fria.",
     "DESCRIPTIONS": [
-      "Replaces #rCracked #rCore. If you end your turn with empty Orb slots, #yChannel #b1 #yFrost."
+      "Substiui #rOrb #rRachada. Se estiver com algum slot vazio no final do seu turno, #yEvoque #b1 #yOrb de Gelo."
     ]
   },
   "OrangePellets": {
-    "NAME": "Orange Pellets",
-    "FLAVOR": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
+    "NAME": "Bolinhas laranja",
+    "FLAVOR": "\"Feitos de vários fungos encontrados em todo o Spire, eles evitarão qualquer aflição.\"",
     "DESCRIPTIONS": [
-      "Whenever you play a #yPower, #yAttack and #ySkill in the same turn, remove all of your Debuffs."
+      "Sempre que jogar um #yPoder, #yAtaque e #yTécnica no mesmo turno, remova todos seus Efeitos negativos."
     ]
   },
   "WristBlade": {
-    "NAME": "Wrist Blade",
-    "FLAVOR": "Handy for assassinations.",
+    "NAME": "Lâmina De Pulso",
+    "FLAVOR": "Prático para assassinatos.",
     "DESCRIPTIONS": [
-      "#yAttack cards that cost #b0 deal #b3 additional damage."
+      "Cartas de #yAtaque que custam #b0 terá #b3 de dano adicional."
     ]
   },
   "StoneCalendar": {
-    "NAME": "Stone Calendar",
-    "FLAVOR": "The passage of time is imperceptible in the Spire.",
+    "NAME": "Calendário de Pedra",
+    "FLAVOR": "A passagem do tempo é imperceptível no Spire.",
     "DESCRIPTIONS": [
-      "At the end of turn #b",
-      ", deal #b",
-      " damage to ALL enemies."
+      "No final do seu turno #b",
+      ", dê #b",
+      " de dano em TODOS os Inimigos ."
     ]
   },
   "Nunchaku": {
     "NAME": "Nunchaku",
-    "FLAVOR": "A good training tool. Improves the posture and agility of the wielder.",
+    "FLAVOR": "Uma ótima ferramenta de treino. Melhora a postura e agilidade.",
     "DESCRIPTIONS": [
-      "Every time you play #b",
-      " Attacks, gain [R] .",
-      " Attacks, gain [G] .",
-      " Attacks, gain [B] ."
+      "Sempre que jogar #b",
+      " Ataque, ganhe [R] .",
+      " Ataque, ganhe [G] .",
+      " Ataque, ganhe [B] ."
     ]
   },
   "MawBank": {
-    "NAME": "Maw Bank",
-    "FLAVOR": "Surprisingly popular, despite maw attacks being a regular occurrence.",
+    "NAME": "Boca do caixa",
+    "FLAVOR": "Surpreendentemente popular, apesar dos ataques de boca ser uma ocorrência regular.",
     "DESCRIPTIONS": [
-      "Whenever you climb a floor, gain #b5 #yGold. No longer works when you spend any #yGold at the shop.",
-      " #yGold. No longer works when you spend any #yGold at the shop."
+      "Sempre que escalar um andar, ganhe #b5 de #yOuro. Não funcionará mais se gastar qualquer #yOuro na Loja.",
+      " #yOuro. Não funcionará mais se gastar qualquer #yOuro na Loja."
     ]
   },
   "MutagenicStrength": {
-    "NAME": "Mutagenic Strength",
-    "FLAVOR": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown",
+    "NAME": "Força mutagênica",
+    "FLAVOR": "\"Os resultados parecem fugazes, desencadeando quando o assunto está em perigo.\" - Desconhecido",
     "DESCRIPTIONS": [
-      "Start each combat with #b",
-      " #yStrength that is lost at the end of your turn."
+      "começe cada combate com #b",
+      " #yForça, que será perdida no final do seu turno."
     ]
   },
   "Brimstone": {
-    "NAME": "Brimstone",
-    "FLAVOR": "An enchanted hourglass that endlessly drips.",
+    "NAME": "Enxofre",
+    "FLAVOR": "Uma ampulheta encantada que goteja infinitamente.",
     "DESCRIPTIONS": [
-      "At the start of your turn, everyone gains #b",
-      " #yStrength."
+      "No início do seu turno, todos ganham #b",
+      " #yForça."
     ]
   },
   "Pocketwatch": {
-    "NAME": "Pocketwatch",
-    "FLAVOR": "The hands seem stuck on the 3 o'clock position.",
+    "NAME": "Relógio de bolso",
+    "FLAVOR": "As mãos parecem presas na posição das 3 horas.",
     "DESCRIPTIONS": [
-      "Whenever you play #b3 or less cards in a turn, draw #b3 additional cards at the start of your next turn."
+      "Sempre que jogar #b3 ou menos cartas no turno, compre #b3 cartas adicionais no próximo turno."
     ]
   },
   "PreservedInsect": {
-    "NAME": "Preserved Insect",
-    "FLAVOR": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+    "NAME": "Inseto Preservado",
+    "FLAVOR": "O inseto encolhido parece criar uma aura que atinge inimigos particularmente grandes.",
     "DESCRIPTIONS": [
-      "Enemies in Elite rooms have #b",
-      "% less HP."
+      "Inimigos de Sala de Elites terão #b",
+      "% menos PV."
     ]
   },
   "FossilizedHelix": {
-    "NAME": "Fossilized Helix",
-    "FLAVOR": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+    "NAME": "Hélice fossilizada",
+    "FLAVOR": "Aparentemente indestrutível, você se pergunta que tipo de criatura pertenceu.",
     "DESCRIPTIONS": [
-      "Prevent the first time you would lose HP in combat."
+      "Preserva a primeira vez que perderia PV em combate."
     ]
   },
   "PrismaticShard": {
-    "NAME": "Prismatic Shard",
-    "FLAVOR": "Looking through the shard, you are able to see entirely new perspectives.",
+    "NAME": "Estilhaço de prisma",
+    "FLAVOR": "Olhando através do fragmento, você é capaz de ver perspectivas inteiramente novas.",
     "DESCRIPTIONS": [
-      "Combat reward screens now contain colorless cards and cards from other colors."
+      "Tela de recompensas de combates agora contém cartas incolor e cartas de outras cores."
     ]
   },
   "WarpedTongs": {
-    "NAME": "Warped Tongs",
-    "FLAVOR": "The cursed tongs emit a strong desire to return to where they were stolen from.",
+    "NAME": "Pinças entortadas",
+    "FLAVOR": "As pinças amaldiçoadas emitem um forte desejo de retornar para onde foram roubadas.",
     "DESCRIPTIONS": [
-      "At the start of your turn, #yUpgrade a random card in your hand."
+      "No início do seu turno, #yAprimore uma carta aleatória da sua mão."
     ]
   },
   "WingedGreaves": {
-    "NAME": "Winged Greaves",
-    "FLAVOR": "Stylish.",
+    "NAME": "Bota alada",
+    "FLAVOR": "Na moda.",
     "DESCRIPTIONS": [
-      "You may ignore paths when choosing the next room to travel to #b3 times."
+      "Você pode ignorar caminhos da próxima sala por #b3 vezes."
     ]
   }
 }
